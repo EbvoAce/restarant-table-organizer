@@ -1,0 +1,10 @@
+C:\Users\sheri\OneDrive\Desktop\C. College\year 1 semester 2\program concepts 2\Assginment1\bin\Debug\Assginment1.exe.config
+C:\Users\sheri\OneDrive\Desktop\C. College\year 1 semester 2\program concepts 2\Assginment1\bin\Debug\Assginment1.exe
+C:\Users\sheri\OneDrive\Desktop\C. College\year 1 semester 2\program concepts 2\Assginment1\bin\Debug\Assginment1.pdb
+C:\Users\sheri\OneDrive\Desktop\C. College\year 1 semester 2\program concepts 2\Assginment1\obj\Debug\Assginment1.Form1.resources
+C:\Users\sheri\OneDrive\Desktop\C. College\year 1 semester 2\program concepts 2\Assginment1\obj\Debug\Assginment1.Properties.Resources.resources
+C:\Users\sheri\OneDrive\Desktop\C. College\year 1 semester 2\program concepts 2\Assginment1\obj\Debug\Assginment1.csproj.GenerateResource.cache
+C:\Users\sheri\OneDrive\Desktop\C. College\year 1 semester 2\program concepts 2\Assginment1\obj\Debug\Assginment1.csproj.CoreCompileInputs.cache
+C:\Users\sheri\OneDrive\Desktop\C. College\year 1 semester 2\program concepts 2\Assginment1\obj\Debug\Assginment1.exe
+C:\Users\sheri\OneDrive\Desktop\C. College\year 1 semester 2\program concepts 2\Assginment1\obj\Debug\Assginment1.pdb
+C:\Users\sheri\OneDrive\Desktop\C. College\year 1 semester 2\program concepts 2\Assginment1\obj\Debug\Assginment1.csproj.AssemblyReference.cache
